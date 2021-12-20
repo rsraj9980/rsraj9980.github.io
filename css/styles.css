@@ -85,6 +85,12 @@ li{
   height: 80px;
 }
 
+.profileImage{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
