@@ -87,6 +87,8 @@ li{
 
 .profileImage{
   height: 160px;
+  width: 140px;
+  border-radius: 50%;
 }
 
 body {
