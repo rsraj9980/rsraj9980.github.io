@@ -85,10 +85,10 @@ li{
   height: 80px;
 }
 
-.profileImage{
-  height: 160px;
-  width: 120px;
-  border-radius: 50%;
+#profileImage{
+  height: 180px;
+  width: 160px;
+  border-radius: 35%;
 }
 
 body {
